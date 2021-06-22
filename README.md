@@ -38,3 +38,8 @@ Lista de Tarefas
 - [ ] Tarefa 2 
 - [ ] Tarefa 3 
 
+links:
+ [acesse meu github](https://anaclaraok.github.io)
+
+ imagem:
+ ! [emojigithub](https://cdn1.iconfinder.com/data/icons/picons-social/57/github-256.png)
