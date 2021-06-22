@@ -43,3 +43,8 @@ links:
 
  imagem:
  ! [emojigithub](https://cdn1.iconfinder.com/data/icons/picons-social/57/github-256.png)
+
+ Num | Nome | Nota 
+ ---|---|---
+ 1 | Gustavo | 8,5
+ 2 | José | 10,00
