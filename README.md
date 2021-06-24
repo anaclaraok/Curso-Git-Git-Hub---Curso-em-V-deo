@@ -48,3 +48,28 @@ links:
  ---|---|---
  1 | Gustavo | 8,5
  2 | José | 10,00
+ 3 | Maria | 9,00
+
+ Terminou a Tabela
+
+ exemplos de comandos:
+`document.get.ElementByid()`
+
+trechos de código: 
+
+```
+Num = int(input('Digite seu número:))
+Print(num)
+
+```
+emoji add : e o nome
+
+:purple_heart:
+
+ou vc pode copiar do site ❤️
+
+Você pode marcar alguem usando @ como no instagram
+
+>testando aqui??
+
+
